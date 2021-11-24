@@ -3653,6 +3653,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8723290782435291534, guid: 9b5338d2093971644944d0de859d4d31,
         type: 3}
+      propertyPath: m_Intensity
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723290782435291534, guid: 9b5338d2093971644944d0de859d4d31,
+        type: 3}
       propertyPath: m_Lightmapping
       value: 4
       objectReference: {fileID: 0}
