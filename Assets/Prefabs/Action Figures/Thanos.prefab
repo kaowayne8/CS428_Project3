@@ -676,7 +676,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2566025223395236527}
-  - component: {fileID: 5480650824649759724}
   m_Layer: 0
   m_Name: Thanos
   m_TagString: Untagged
@@ -693,26 +692,12 @@ Transform:
   m_GameObject: {fileID: 2942973666374844437}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.0774407, y: 0.1, z: 4.3236814}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
+  m_LocalScale: {x: 0.5, y: 0.3, z: 0.5}
   m_Children:
   - {fileID: 6167184710832733518}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &5480650824649759724
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2942973666374844437}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.85242504
-  m_Height: 3.5648885
-  m_Direction: 1
-  m_Center: {x: -0.3463626, y: 1.5823371, z: 0}
 --- !u!1 &3008648825351230417
 GameObject:
   m_ObjectHideFlags: 0
@@ -1536,8 +1521,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.46411157, y: 1.0095015, z: 0.22524099}
-  m_Center: {x: -0.011667053, y: -0.015788715, z: 0.0011669993}
+  m_Size: {x: 0.2269177, y: 0.95919645, z: 0.1547592}
+  m_Center: {x: 0.005294919, y: 0.00024588904, z: -0.0023624063}
 --- !u!1 &6091969650944436938
 GameObject:
   m_ObjectHideFlags: 0
