@@ -33,3 +33,7 @@ Make sure to install Unity 2019.4.28f1 via Unity Hub. This version of Unity spec
 * Now you should wait awhile until it is done uploading
 * Go to your applications and in the select box in the upper right hand corner, select unauthorized applications. Select it and then open the app
 
+### In Game mechanics that need explaining
+* In order to turn the lamp on and off, hold it and then press the a button. This will turn it on or off.
+* In order to switch scenes, press the button on the menu to switch to the respective scene you want to transition too.
+* If you want to rotate the scene in the rotating room, press the rotate button found on the menu. 
